@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 6_exotherm_react.pdf
 uid: f5030af4-1384-d9de-143d-e5913022fad5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

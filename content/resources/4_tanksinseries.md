@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 4_tanksinseries.pdf
 uid: 2bbe9f70-037e-6584-b54d-043a3c843300
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

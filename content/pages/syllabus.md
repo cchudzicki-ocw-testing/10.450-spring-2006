@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 900536bf-ce00-9fcc-44df-831f26040921
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 A list of topics by lecture is available in the [calendar](#Calendar) listed below.

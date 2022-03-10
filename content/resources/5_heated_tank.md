@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 5_heated_tank.pdf
 uid: dc573f23-401e-eb58-2281-8fbaa177eaac
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

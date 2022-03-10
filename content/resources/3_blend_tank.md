@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 3_blend_tank.pdf
 uid: 28cd628b-5903-b0bb-abae-f96f0d82f1d1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

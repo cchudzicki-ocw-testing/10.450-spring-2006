@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 1751b5f4-022a-f47c-1cbb-3f13156de20a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Problem Sets
@@ -64,7 +68,7 @@ Problem Set 4 ({{% resource_link 8cf45122-5795-82ed-8afc-7680551b51f3 "PDF" %}})
 Problem Set 5 ({{% resource_link 7a1737b1-add4-0606-38f9-d553541bb6a4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-template\_ps5.m ([M](/courses/chemical-engineering/10-450-process-dynamics-operations-and-control-spring-2006/assignments/template_ps5.m))
+template\_ps5.m ({{% resource_link 2acc37f1-79fe-05e1-f097-05253666f90a "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

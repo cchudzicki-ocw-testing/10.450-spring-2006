@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: pset_7.pdf
 uid: b854acb8-6038-8363-d15a-b3027778d2c2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

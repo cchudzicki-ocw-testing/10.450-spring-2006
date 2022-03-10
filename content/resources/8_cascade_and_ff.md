@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 8_cascade_and_ff.pdf
 uid: 3687206b-a105-1533-fb5d-29a63df08899
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

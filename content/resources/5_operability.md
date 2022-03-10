@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 5_operability.pdf
 uid: e5d095af-4b86-97f4-0b80-009eeceaa7e7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

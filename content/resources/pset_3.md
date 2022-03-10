@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: pset_3.pdf
 uid: 4e36ba4a-42c5-997e-c4f5-632a0342cf2d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

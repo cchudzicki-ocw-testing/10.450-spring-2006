@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: exothrmc_rctr_ps8.xls
 uid: 747488e5-d64e-bc43-312a-1642eb741d5b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

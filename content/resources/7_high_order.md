@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 7_high_order.pdf
 uid: 9323048e-3f2f-fc52-e507-08760833e598
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

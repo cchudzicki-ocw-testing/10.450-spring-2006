@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 2_math.pdf
 uid: 1a418cec-8186-1b3a-0c0d-69c71b66b07f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

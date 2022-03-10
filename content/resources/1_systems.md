@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 1_systems.pdf
 uid: 87bcc0d1-b481-eeca-283f-3c385325d755
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
